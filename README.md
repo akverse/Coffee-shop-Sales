@@ -5,3 +5,4 @@ About 60% of orders were preferred in Large & Regular Sizes with Small size cups
 All 3 store locations have almost identical numbers by sales & order quantity. 
 Almost 70% sales were attributed to Coffee & Tea with rest like Bakery, Drinking Chocolate making up remaining 30%.
 Barista Espresso & Brewed Tea are the two most popular items by sales &  quantity.
+Sales can further improved by increasing average order quantity/per person which was just 1.44 by adopting  offers & target marketing.
